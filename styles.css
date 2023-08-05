@@ -1,0 +1,33 @@
+.Val1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.Val2{
+    color: purple;
+}
+.Lorem1{
+    color: red;
+}
+.Lorem2{
+    color: black;
+}
+.Marq{
+    color: white;
+    background-color: red;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Text{
+    line-height: 0%;
+}
+.Staf{
+    text-decoration: underline;
+}
+body{
+    background-color: burlywood;
+}
+.Contact1{
+    color: white;
+    background-color: black;
+}
